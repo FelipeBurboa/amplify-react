@@ -1,0 +1,29 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-vitereact-dev-153132-authRole",
+      "UnauthRoleArn": "arn:aws:iam::924606381119:role/amplify-vitereact-dev-153132-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::924606381119:role/amplify-vitereact-dev-153132-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-vitereact-dev-153132-deployment",
+      "UnauthRoleName": "amplify-vitereact-dev-153132-unauthRole",
+      "StackName": "amplify-vitereact-dev-153132",
+      "StackId": "arn:aws:cloudformation:us-east-2:924606381119:stack/amplify-vitereact-dev-153132/39d19070-75c0-11ee-a6ed-0621ca18e6ef",
+      "AmplifyAppId": "d4djn0chbwohi"
+    },
+    "categories": {
+      "api": {
+        "vitereact": {}
+      },
+      "auth": {
+        "vitereact3e9f0623": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d4djn0chbwohi",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
